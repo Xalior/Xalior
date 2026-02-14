@@ -47,7 +47,7 @@ I'm also part of [**@StalePixels**](https://github.com/StalePixels), where we bu
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xalior&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Xalior&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
