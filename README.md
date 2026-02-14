@@ -1,16 +1,10 @@
 # 👋 Hey, I'm D.
 
-💻 Developer at [Stale Pixels](https://www.stalepixels.com/) · 🌍 Based *in your ♥* · 🌐 [xalior.com](http://www.xalior.com/)
+💻 Geek, Nerd & Developer at large · 🌍 Based *in your ♥* (or Glasgow, Scotland, if you prefer) · 🌐 [xalior.com](http://www.xalior.com/)
 
 ---
 
 ## 🚀 Current Projects
-
-### 🤖 [agent-skills](https://github.com/Xalior/agent-skills)
-AI Agent Skills Collection — Like vercel-labs/agent-skills, but cooler. Because emojis. 😎
-
-### 🎮 [sir_clive_sinclairbot](https://github.com/Xalior/sir_clive_sinclairbot)
-A Discord channelbot, written in TypeScript. 🇬🇧🕹️
 
 ### 📺 [TooMuchYouTube](https://github.com/Xalior/TooMuchYouTube)
 Make YouTube play at the speed *you* want — automatically — by setting rules for channel, title, or video ID. ⚡ Built with TypeScript.
@@ -18,11 +12,17 @@ Make YouTube play at the speed *you* want — automatically — by setting rules
 ### 📜 [NiceLicense](https://github.com/Xalior/NiceLicense)
 Pick and manage LICENSE files with a guided CLI. No more copy-pasting from choosealicense.com! ✨ Built with JavaScript.
 
+### 🎮 [sir_clive_sinclairbot](https://github.com/Xalior/sir_clive_sinclairbot)
+A Discord channelbot, written in TypeScript. 🇬🇧🕹️
+
+### 🤖 [agent-skills](https://github.com/Xalior/agent-skills)
+AI Agent Skills Collection — Like vercel-labs/agent-skills, but cooler. Because emojis. 😎
+
 ---
 
 ## 🕹️ Retro / 8-Bit
 
-I'm also part of [**@StalePixels**](https://github.com/StalePixels), where we build software and tools for the **ZX Spectrum Next** and other retro platforms. Highlights include:
+I'm also part of [**@StalePixels**](https://github.com/StalePixels), where I build software and tools for the **ZX Spectrum Next** and the ecosystem. Shiny highlights include:
 
 | Project | Description | ⭐ |
 |---------|-------------|----|
