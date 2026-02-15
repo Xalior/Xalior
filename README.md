@@ -24,8 +24,8 @@ AI Agent Skills Collection — Like vercel-labs/agent-skills, but cooler. Becaus
 
 I'm also part of [**@StalePixels**](https://github.com/StalePixels), where I build software and tools for the **ZX Spectrum Next** and the ecosystem. Shiny highlights include:
 
-| Project | Description | ⭐ |
-|---------|-------------|----|
+| Project | Why you care... | ⭐ |
+|---------|-----------------|----|
 | 🎨 [PLOTIT](https://github.com/StalePixels/PLOTIT) | An art package for the ZX Spectrum Next | 19 |
 | 🖥️ [SPUI](https://github.com/StalePixels/SPUI) | UI tools for the ZX Spectrum Next | 8 |
 | 🖨️ [PrintShop](https://github.com/StalePixels/PrintShop) | ZX Spectrum Next → Printer Gateway | 7 |
