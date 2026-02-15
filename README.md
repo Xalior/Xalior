@@ -6,6 +6,9 @@
 
 ## 🚀 Current Projects
 
+### 🔭 [ClaudeOverseer](https://github.com/Xalior/ClaudeOverseer)
+Monitor Claude Code background agents in real-time — without spending a single extra token. Desktop app with live session monitoring, chat-style interface, and team support. 🤖 Built with Electron, React & TypeScript.
+
 ### 📺 [TooMuchYouTube](https://github.com/Xalior/TooMuchYouTube)
 Make YouTube play at the speed *you* want — automatically — by setting rules for channel, title, or video ID. ⚡ Built with TypeScript.
 
