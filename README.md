@@ -1,6 +1,7 @@
 # 👋 Hey, I'm D.
 
-💻 Geek, Nerd & Developer at large · 🌍 Based *in your ♥* (or Glasgow, Scotland, if you prefer) · 🌐 [xalior.com](http://www.xalior.com/)
+  💻 Geek, Nerd & Developer at large · 🌍 Based *in your ♥* (or Glasgow, Scotland, if you prefer) · 🤖 *Probably the only person to tell AI to use more emojis* · 🌐 [xalior.com](http://www.xalior.com/)
+
 
 ---
 
