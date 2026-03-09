@@ -1,9 +1,6 @@
 # 👋 Hey, I'm D.
 
-💻 Geek, Nerd & Developer at large <br>
-🌍 Based *in your ♥* (or Glasgow, Scotland, if you prefer) <br>
-🤖 *Probably the only person to tell AI to use more emojis* <br>
-🌐 [xalior.com](http://www.xalior.com/) 
+  💻 Geek, Nerd & Developer at large · 🌍 Based *in your ♥* (or Glasgow, Scotland, if you prefer) · 🤖 *Probably the only person to tell AI to use more emojis* · 🌐 [xalior.com](http://www.xalior.com/)
 
 
 ---
@@ -21,6 +18,9 @@ Pick and manage LICENSE files with a guided CLI. No more copy-pasting from choos
 
 ### 🎮 [sir_clive_sinclairbot](https://github.com/Xalior/sir_clive_sinclairbot)
 A Discord channelbot, written in TypeScript. 🇬🇧🕹️
+
+### 🔀 [GitTaskFanOut](https://github.com/Xalior/GitTaskFanOut)
+A lightweight, self-hosted webhook router — receive Git webhooks on unique endpoints and fan them out to multiple targets in parallel. 🐳 Built with Next.js, React & TypeScript.
 
 ### 🤖 [agent-skills](https://github.com/Xalior/agent-skills)
 AI Agent Skills Collection — Like vercel-labs/agent-skills, but cooler. Because emojis. 😎
