@@ -22,6 +22,9 @@ A Discord channelbot, written in TypeScript. 🇬🇧🕹️
 ### 🔀 [GitTaskFanOut](https://github.com/Xalior/GitTaskFanOut)
 A lightweight, self-hosted webhook router — receive Git webhooks on unique endpoints and fan them out to multiple targets in parallel. 🐳 Built with Next.js, React & TypeScript.
 
+### 🍺 [zsh-brew-outdated](https://github.com/Xalior/zsh-brew-outdated)
+An oh-my-zsh plugin that shows outdated Homebrew packages as a login MOTD — with stale-while-revalidate caching for zero-delay shells. ⚡ Built with Zsh.
+
 ### 🤖 [agent-skills](https://github.com/Xalior/agent-skills)
 AI Agent Skills Collection — Like vercel-labs/agent-skills, but cooler. Because emojis. 😎
 
