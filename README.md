@@ -8,7 +8,7 @@
 ## 🚀 Current Projects
 
 ### 📧 [DKIMDashboard](https://github.com/Xalior/DKIMDashboard)
-A web-based dashboard for monitoring and managing DKIM, SPF, and DMARC email authentication records. 📬 Built with TypeScript.
+A web-based dashboard for monitoring and managing DKIM, SPF, and DMARC email authentication records. 📧 Built with TypeScript.
 
 ### 📺 [TooMuchYouTube](https://github.com/Xalior/TooMuchYouTube)
 Make YouTube play at the speed *you* want — automatically — by setting rules for channel, title, or video ID. ⚡ Built with TypeScript.
