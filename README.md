@@ -7,8 +7,8 @@
 
 ## 🚀 Current Projects
 
-### 🔭 [ClaudeOverseer](https://github.com/Xalior/ClaudeOverseer)
-Monitor Claude Code background agents in real-time — without spending a single extra token. Desktop app with live session monitoring, chat-style interface, and team support. 🤖 Built with Electron, React & TypeScript.
+### 📧 [DKIMDashboard](https://github.com/Xalior/DKIMDashboard)
+A web-based dashboard for monitoring and managing DKIM, SPF, and DMARC email authentication records. 📬 Built with TypeScript.
 
 ### 📺 [TooMuchYouTube](https://github.com/Xalior/TooMuchYouTube)
 Make YouTube play at the speed *you* want — automatically — by setting rules for channel, title, or video ID. ⚡ Built with TypeScript.
@@ -27,6 +27,15 @@ An oh-my-zsh plugin that shows outdated Homebrew packages as a login MOTD — wi
 
 ### 🤖 [agent-skills](https://github.com/Xalior/agent-skills)
 AI Agent Skills Collection — Like vercel-labs/agent-skills, but cooler. Because emojis. 😎
+
+---
+
+## ⏸️ Paused Projects
+
+### 🔭 [ClaudeOverseer](https://github.com/Xalior/ClaudeOverseer)
+Monitor Claude Code background agents in real-time — without spending a single extra token. Desktop app with live session monitoring, chat-style interface, and team support. 🤖 Built with Electron, React & TypeScript.
+
+> ⏸️ **Paused** — [t3code](https://github.com/pingdotgg/t3code) is doing more, faster. The UI isn't as nice, but the functionality is ahead. Watching that space instead.
 
 ---
 
